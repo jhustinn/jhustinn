@@ -35,6 +35,8 @@ I have experience in backend as well as frontent development and also.
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
    ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+   ![Astrojs](https://img.shields.io/badge/Astro-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
     
 - 💾 Databases:
 
