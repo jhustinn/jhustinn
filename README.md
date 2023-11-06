@@ -7,7 +7,7 @@ I am Student, a passionate self-taught full stack web developer, working in both
 I love build an app.
 I have experience in backend as well as frontent development and also.
 
-📍 Learning MERN Stack.
+📍 Learning MERN Stack. </br>
 📝 Everything on this page is my target for now
 </p>
 
