@@ -92,12 +92,6 @@ I have experience in backend as well as frontent development and also.
 <a href="https://github.com/jhustinn"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhustinn&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
 </p>
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jhustinn}/count.svg" /></p> 
-<br>
-</div>
 
 ## Connect with me 
 
