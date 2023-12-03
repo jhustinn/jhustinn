@@ -8,7 +8,7 @@ I love build an app.
 I have experience in backend as well as frontent development and also.
 
 📍 Learning MERN Stack. </br>
-📝 Everything on this page is my target for now
+📝 Everything on this page is my target for now </br>
 🧠 Rest API
 </p>
 
