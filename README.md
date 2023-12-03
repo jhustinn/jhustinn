@@ -8,8 +8,8 @@ I love build an app.
 I have experience in backend as well as frontent development and also.
 
 📍 Learning MERN Stack. </br>
-📝 Everything on this page is my target for now </br>
-🧠 Rest API
+🧠 Rest API </br>
+📝 Everything on this page is my target for now. 
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
