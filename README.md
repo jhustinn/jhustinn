@@ -7,9 +7,9 @@ I am Student, a passionate self-taught full stack web developer, working in both
 I love build an app.
 I have experience in backend, not much in frontend.
 
-📍 Learning Laravel And Mobile. </br>
+📍 Trying To Reach Laravel And Mobile. </br>
 🧠 Rest API </br>
-📝 Everything on this page is my target for now. 
+📝 Everything on this page is my target for now. </br>
 📩 Recently C#, .NET, Visual Studio IDE
 </p>
 
