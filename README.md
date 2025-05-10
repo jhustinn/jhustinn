@@ -6,7 +6,7 @@
 I am Student, a passionate self-taught full stack web developer, working in both backend and frontend programming. But more on the backend.
 I have experience in backend, not much in frontend.
 
-📍 Trying To Reach Mobile Dev. </br>
+📍 Mobile Dev. </br>
 🧠 Rest API </br>
 📩 Recently Kotlin.
 </p>
