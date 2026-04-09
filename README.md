@@ -9,8 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student (SMK)
-- 💼 Software Engineer at **R&D Division**
+- 🎓 Software Engineering
 - 🧠 Strong focus on **Backend Development & System Design**
 - ⚙️ Experienced in building **REST APIs & Business Logic Systems**
 - 📱 Currently exploring **Mobile Development (Flutter & Kotlin)**
